@@ -1,7 +1,6 @@
 ## Hi there, I'm Alexandre 👋
 
 🎮 I'm a Game Development Engineering Student. <br/>
-👨🏾‍💻Currently studying engineering in digital game development at IPCA, Barcelos.<br/>
+👨🏾‍💻Currently studying Engineering in Digital Game Development at IPCA, Barcelos.<br/>
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexmarques11&show_icons=true&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmarques11&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
